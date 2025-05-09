@@ -6,3 +6,5 @@ Results
 
 ![Image](https://github.com/arush414/DA_COURSE_PROJECT/blob/main/main.png)
 
+Some Basic mathematics
+![Image](https://github.com/arush414/DA_COURSE_PROJECT/blob/main/img.png)
