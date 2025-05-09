@@ -4,6 +4,5 @@ We investigate conditional adversarial networks as a general-purpose solution to
 
 Results
 
-![Image](https://github.com/arush414/DA_COURSE_PROJECT/main.png)
-
+![Image](https://github.com/arush414/DA_COURSE_PROJECT/blob/main.png)
 
