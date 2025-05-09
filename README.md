@@ -8,3 +8,10 @@ Results
 
 Some Basic mathematics
 ![Image](https://github.com/arush414/DA_COURSE_PROJECT/blob/main/img.png)
+
+
+Research Papers viewed
+-------
+* https://arxiv.org/pdf/1611.07004.pdf
+* http://cs231n.stanford.edu/reports/2017/pdfs/302.pdf
+* https://richzhang.github.io/colorization/resources/colorful_eccv2016.pdf
